@@ -17,6 +17,8 @@ The system is designed to support **risk modeling, hotspot detection, and future
 
 ---
 
+**Important: All earth engine scripts are found at** https://code.earthengine.google.com/57ae06f0ffa5085a271e235ec641ad08
+
 ## 🗺️ Validation Architecture
 
 ![Validation](validation.png)
