@@ -1,0 +1,177 @@
+[
+    {
+        "source": "kerala_env_2019.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 27366,
+            "ndvi": 7959,
+            "ndwi": 7959,
+            "radar_vh": 2600,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 27366,
+            "ndvi": 7959,
+            "ndwi": 7959,
+            "radar_vh": 2600,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2019_2021_preprocessed.csv",
+        "total_rows": 369432,
+        "outliers_masked": {
+            "lst_celsius": 60604,
+            "ndvi": 25618,
+            "ndwi": 25618,
+            "radar_vh": 4612,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 88147,
+            "ndvi": 25618,
+            "ndwi": 25618,
+            "radar_vh": 4612,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2019_preprocessed.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 17200,
+            "ndvi": 7959,
+            "ndwi": 7959,
+            "radar_vh": 2600,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 27366,
+            "ndvi": 7959,
+            "ndwi": 7959,
+            "radar_vh": 2600,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2020.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 23290,
+            "ndvi": 7559,
+            "ndwi": 7559,
+            "radar_vh": 2012,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 23290,
+            "ndvi": 7559,
+            "ndwi": 7559,
+            "radar_vh": 2012,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2020_preprocessed.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 17762,
+            "ndvi": 7559,
+            "ndwi": 7559,
+            "radar_vh": 2012,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 23290,
+            "ndvi": 7559,
+            "ndwi": 7559,
+            "radar_vh": 2012,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2021.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 37491,
+            "ndvi": 10100,
+            "ndwi": 10100,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 37491,
+            "ndvi": 10100,
+            "ndwi": 10100,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    },
+    {
+        "source": "kerala_env_2021_preprocessed.csv",
+        "total_rows": 123144,
+        "outliers_masked": {
+            "lst_celsius": 25642,
+            "ndvi": 10100,
+            "ndwi": 10100,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        },
+        "values_imputed": {
+            "lst_celsius": 37491,
+            "ndvi": 10100,
+            "ndwi": 10100,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        },
+        "final_null_count": {
+            "lst_celsius": 0,
+            "ndvi": 0,
+            "ndwi": 0,
+            "radar_vh": 0,
+            "rainfall_mm": 0
+        }
+    }
+]
